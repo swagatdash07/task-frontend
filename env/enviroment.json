@@ -1,0 +1,13 @@
+{
+  "URL": {
+    "baseUrl": "https://task-backend-1svf.onrender.com/"
+  },
+  "endpoints": {
+    "login": "auth/login",
+    "signup": "auth/signup",
+    "create": "tasks/create",
+    "update": "tasks/update",
+    "delete": "tasks/delete",
+    "tasks": "tasks"
+  }
+}
